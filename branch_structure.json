@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "security/issue-574-ui-fe-004-build-wallet-network-and-identity"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "security/issue-574-ui-fe-004-build-wallet-network-and-identity": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "security/issue-574-ui-fe-004-build-wallet-network-and-identity"
+  ]
+}
